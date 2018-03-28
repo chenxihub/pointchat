@@ -40,6 +40,12 @@ brew install mongodb
 ```sh
 npm install mongoose --save
 ```
+```sh
+npm install react-redux --save
+```
+```sh
+npm install redux-thunk --save
+```
 ```diff
   "scripts": {
 +   "precommit": "lint-staged",

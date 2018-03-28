@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <includedPredefinedLibrary name="Node.js Core" />
+    <file url="file://$PROJECT_DIR$" libraries="{pointchat/node_modules}" />
+    <file url="PROJECT" libraries="{@types/cookie-parser, @types/express, @types/mongodb, @types/mongoose, @types/node, @types/react, @types/react-native, jQuery-2.0.0, pointchat/node_modules}" />
   </component>
 </project>
