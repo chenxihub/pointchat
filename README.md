@@ -46,6 +46,10 @@ npm install react-redux --save
 ```sh
 npm install redux-thunk --save
 ```
+> 修改connect的写法插件
+```sh
+npm install babel-plugin-transform-decorators-legacy --save-dev
+```
 ```diff
   "scripts": {
 +   "precommit": "lint-staged",

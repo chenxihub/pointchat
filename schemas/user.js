@@ -7,8 +7,27 @@ module.exports = new mongoose.Schema({
         type: String,
         require: true
     },
-    age: {
+    password: {
         type: String,
         require: true
+    },
+    type: {
+        type: String,
+        require: true
+    },
+    avatar: {
+        type: String
+    },
+    desc: {
+        type: String
+    },
+    title: {
+        type: String
+    },
+    company: {
+        type: String
+    },
+    money: {
+        type: String
     }
 });

@@ -1,0 +1,12 @@
+.am-card-header-content img{
+    width: 44px;
+    height: 44px;
+    border-radius: 4px;
+}
+.am-card-body>div{
+    line-height: 24px;
+    color: #888;
+}
+.am-card-footer-content p{
+    color: rgb(51, 163, 244);
+}

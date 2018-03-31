@@ -1,0 +1,110 @@
+.am-list-item .am-input-extra {
+    max-height: 30px;
+}
+
+.InputClass {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 99;
+}
+
+.chatList {
+    margin-bottom: 45px;
+}
+
+.am-tag-normal {
+    background-color: lightseagreen;
+    border-radius: 6px;
+    text-align: left;
+}
+
+.am-tag-active {
+    background-color: lightseagreen;
+    color: #fff;
+    border: 1PX solid lightseagreen;
+    border-radius: 6px;
+}
+
+.am-tag {
+    height: auto;
+    padding: 13px 15px;
+}
+
+.am-tag-text {
+    color: white;
+}
+
+.MySend {
+    padding: 15px 8px 15px 30px;
+}
+
+.ToFrom {
+    padding: 15px 30px 15px 8px;
+}
+
+.MySend .am-list-body {
+    border-radius: 60px;
+}
+
+.MySend .am-list-thumb img {
+    position: absolute;
+    right: 9px;
+    width: 60px;
+    height: 60px;
+    top: 9px;
+    border-radius: 50%;
+}
+
+.ToFrom .am-list-thumb img {
+    position: absolute;
+    left: 9px;
+    width: 60px;
+    height: 60px;
+    top: 9px;
+    border-radius: 50%;
+}
+
+.ToFrom .am-list-content {
+    margin-left: 48px;
+}
+
+.MySend .am-list-item .am-list-item-top {
+    border-radius: 60px;
+}
+
+.am-list {
+    border-radius: 60px;
+}
+
+.am-list-item .am-list-item-top {
+    border-radius: 60px;
+}
+
+.am-list-body {
+    border-radius: 60px;
+}
+
+.ToFrom .am-list-item {
+    background-color: #118ee9;
+    border-radius: 60px;
+}
+
+.MySend .am-list-item {
+    border-radius: 60px;
+}
+
+.ToFrom .am-list-item .am-list-item-top {
+    border-radius: 60px;
+}
+
+.ToFrom .am-list-item .am-list-line .am-list-content,
+.ToFrom .am-list-item .am-list-line .am-list-brief,
+.ToFrom .am-list-item .am-list-line .am-list-extra {
+    color: white;
+}
+
+.MySend .am-list-content {
+    right: 30px;
+    text-align: right;
+}
